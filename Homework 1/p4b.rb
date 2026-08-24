@@ -60,7 +60,6 @@ class JellyBean < Dessert
 end
 
 
-
 #########################
 
 # Compares the result of calling the method
