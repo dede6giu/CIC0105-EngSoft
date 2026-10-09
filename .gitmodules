@@ -1,3 +1,6 @@
 [submodule "RottenPotatoes"]
 	path = RottenPotatoes
 	url = https://github.com/dede6giu/RottenPotatoes
+[submodule "UnB_RU"]
+	path = UnB_RU
+	url = https://github.com/dede6giu/UnB_RU.git
